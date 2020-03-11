@@ -35,8 +35,6 @@ class LinkContainer extends React.Component {
             
             
         }))
-
-
     }
     
     render() {
